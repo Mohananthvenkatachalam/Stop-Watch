@@ -7,7 +7,7 @@ font-family: 'Lora', serif;
 }
 .container{
     text-align: center;
-    font-size: 60px;
+    font-size: 200%;
     margin-top: 220px;
     color: white;
     background-color: rgb(52, 46, 46,0.5);
@@ -46,3 +46,4 @@ p{
     font-size: 40px;
     color: chartreuse;
 }
+
